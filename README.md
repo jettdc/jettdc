@@ -1,5 +1,5 @@
 ### Hi, I'm Jett 👋
-*Software Enthusiast, Honors Student, Avid Reader, Film Fanatic*  
+*Software Enthusiast, Honors Student, Avid Learner, Film Fanatic*  
 | <a href="mailto:jettcrowson@gmail.com">📫&nbsp;Email Me</a> | <a href="blueprintboulder.org"><img height="14px" src="https://emoji.slack-edge.com/T01B38RFRA4/blueprint/c66b8c05eeb3494b.png" />&nbsp;Blueprint Boulder</a> | <a href="https://www.linkedin.com/in/jettcrowson/"><img src="https://th.bing.com/th/id/OIP.w_zDkEJ9aLiWR-g0rff8hwHaHa?pid=ImgDet&rs=1" height="14px" />&nbsp;Linkedin</a> | <a href="https://www.goodreads.com/user/show/149598498-jett-crowson">📘 Goodreads</a> | <a href="https://letterboxd.com/jettcrow/">🎞️ Letterboxd</a> |
 |----------|-------------------|----------|----------|----------|
 
