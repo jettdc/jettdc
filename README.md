@@ -7,8 +7,8 @@
 
 ### 🔭 About Me
 - Computer science student at The University of Colorado, Boulder
-- Software engineer working on backend development and data infrastructure for a leading IoT & video conferencing platform. 
-- Current VP of Projects and former Team Lead at @blueprintboulder, an organization that develops software for nonprofits.
+- Software engineer working on backend development and data infrastructure for a leading IoT platform at [Poly](https://www.poly.com/). 
+- Current VP of Projects and former Team Lead at [Blueprint Boulder](blueprintboulder.org), an organization that develops software for nonprofits.
 
 ### 🖥️ Interests
 - Distributed computing
