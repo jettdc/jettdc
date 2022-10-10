@@ -12,10 +12,11 @@
 
 ### 🖥️ Interests
 - Distributed computing
+- Financial technologies
 - IoT platforms
 - Cloud computing
+- High performance computing (HPC)
 - DevOps
-- Software architecture (including microservices architectures)
 - Entrepreneurship / Startups
 
 ### 🔧 Tools
@@ -29,4 +30,6 @@
   <img height="30" alt="PostgreSQL" src="https://img.shields.io/badge/postgresql-0078e8?&style=for-the-badge&logo=PostgreSQL&logoColor=white"/>
   <img height="30" alt="Docker" src="https://img.shields.io/badge/docker-0078e8?&style=for-the-badge&logo=Docker&logoColor=white"/>
   <img height="30" alt="AWS" src="https://img.shields.io/badge/aws-0078e8?&style=for-the-badge&logo=AWS Lambda&logoColor=white"/>
+  <img height="30" alt="Java" src="https://img.shields.io/badge/java-0078e8?&style=for-the-badge&logo=oracle&logoColor=white"/>
+  <img height="30" alt="c++" src="https://img.shields.io/badge/c%2B%2B%0A-0078e8?&style=for-the-badge&logo=cplusplus&logoColor=white"/>
 </p>
