@@ -1,5 +1,4 @@
-### Hi, I'm Jett 👋
-*Software Enthusiast, Avid Learner, Film Fanatic*  
+### Hi, I'm Jett 👋 
 | <a href="mailto:jettcrowson@gmail.com">📫&nbsp;Email Me</a> | <a href="https://www.linkedin.com/in/jettcrowson/"><img src="https://th.bing.com/th/id/OIP.w_zDkEJ9aLiWR-g0rff8hwHaHa?pid=ImgDet&rs=1" height="14px" />&nbsp;Linkedin</a>
 |----------|-------------------|
 
